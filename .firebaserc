@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "learn-production-1",
+    "staging": "learn-staging-1",
+    "production": "learn-production-1",
+    "development": "learn-dev-1"
+  }
+}
